@@ -1,7 +1,7 @@
-Leet Code Daily - C++
-
-Day 1: Reverse a String
+##Day 1: Reverse a String
       
 void reverseString(vector<char>& s) {
         reverse(s.begin(),s.end());  
     }
+
+
