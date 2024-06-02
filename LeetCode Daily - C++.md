@@ -1,7 +1,7 @@
 **Day 1: Reverse a String**
-```      
+```C++    
 void reverseString(vector<char>& s) {
-        `#FF0000`reverse(s.begin(),s.end());  
+        reverse(s.begin(),s.end());  
         }
 ```
 
